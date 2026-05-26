@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class triangleMethods {
+public class TriangleMethods {
 
     // public allows access to all other classes,
     // static main function is called without creating an object
